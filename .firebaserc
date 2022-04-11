@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "aviva-mamapp-prod": {
+      "hosting": {
+        "coach22": [
+          "aviva-mamapp-prod"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "coachchat-e1adf"
+  }
+}

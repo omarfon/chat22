@@ -122,8 +122,13 @@
               "devServerTarget": "coach22:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "coach22"
 }
